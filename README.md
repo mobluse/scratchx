@@ -1,8 +1,13 @@
-## ScratchX sbx
+## ScratchX
 
 - [ScratchX](http://scratchx.org)
 
-### SBX-files
+### Download sbx-files
 
-- [speaktweet.sbx](http://mobluse.github.io/scratchx/speaktweet.sbx) http://scratchx.org/?url=http://mobluse.github.io/scratchx/speaktweet.sbx
+- [speaktweet.sbx](http://mobluse.github.io/scratchx/speaktweet.sbx)
 - [weather-lund-se.sbx](http://mobluse.github.io/scratchx/weather-lund-se.sbx)
+
+### Open sbx-files directly (doesn't work)
+
+- [speaktweet.sbx](http://scratchx.org/?url=http://mobluse.github.io/scratchx/speaktweet.sbx)
+- [weather-lund-se.sbx](http://scratchx.org/?url=http://mobluse.github.io/scratchx/weather-lund-se.sbx)
