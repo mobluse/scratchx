@@ -9,5 +9,5 @@
 
 ### Open sbx-files directly
 
-- [speaktweet.sbx](http://scratchx.org/?url=http://mobluse.github.io/scratchx/speaktweet.sbx)
-- [weather-lund-se.sbx](http://scratchx.org/?url=http://mobluse.github.io/scratchx/weather-lund-se.sbx) This is a remix for Lund.
+- [speaktweet.sbx](http://scratchx.org/?url=https://mobluse.github.io/scratchx/speaktweet.sbx)
+- [weather-lund-se.sbx](http://scratchx.org/?url=https://mobluse.github.io/scratchx/weather-lund-se.sbx) This is a remix for Lund.
