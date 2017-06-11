@@ -1,4 +1,4 @@
-## ScratchX
+## ScratchX by MOBLUSE
 
 - [ScratchX](http://scratchx.org)
 
@@ -7,7 +7,7 @@
 - [speaktweet.sbx](http://mobluse.github.io/scratchx/speaktweet.sbx)
 - [weather-lund-se.sbx](http://mobluse.github.io/scratchx/weather-lund-se.sbx)
 
-### Open sbx-files directly (doesn't work)
+### Open sbx-files directly
 
 - [speaktweet.sbx](http://scratchx.org/?url=http://mobluse.github.io/scratchx/speaktweet.sbx)
-- [weather-lund-se.sbx](http://scratchx.org/?url=http://mobluse.github.io/scratchx/weather-lund-se.sbx)
+- [weather-lund-se.sbx](http://scratchx.org/?url=http://mobluse.github.io/scratchx/weather-lund-se.sbx) This is a remix for Lund.
